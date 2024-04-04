@@ -13,18 +13,18 @@ Pricing Methodology
 -   ARIMA was used to model inflation and interest rates
 -   Pricing was done according to the zero NPV principle
 
-![](media/5785cadb7f8f7303edea4929d331fbf9.png)
+![graph 1](media/5785cadb7f8f7303edea4929d331fbf9.png)
 
 Pricing Results
 
 -   The proposed product is priced according to policy type, age group, smoking status and underwriting class. When offered at the same price, SuperLife would expect to earn on average Č243.94 more from the proposed product than current offerings.
 -   Life expectancy is expected to improve; an individual aged 30 may also see an increase in life expectancy of up to 1.5 years.
 
-![](media/d4b87ec36a8970a53344f8846e2f6077.png)
+![graph 2](media/d4b87ec36a8970a53344f8846e2f6077.png)
 
 -   Average incurred loss per policy on the central estimate of assumptions is expected to be Č3.65 before the addition of any profit margins.
 -   Sensitivity tests were conducted on prices assuming different levels of utilisation. All tested prices failed under extreme scenarios of low investment returns. The product may still perform well under high inflation if investment returns are healthy, due to the assumption that indexation is limited to 5%p.a. However, high inflation coupled with low returns sees the product incur the greatest total losses.
--   ![](media/a0e50963ddd1cab148cbe0e9d4676dba.png)
+-   ![graph 3](media/a0e50963ddd1cab148cbe0e9d4676dba.png)
 
 Assumptions
 
