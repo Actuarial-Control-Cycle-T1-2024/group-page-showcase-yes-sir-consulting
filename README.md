@@ -24,6 +24,19 @@ When you finish the task, please paste your link to the Excel [sheet](https://un
 More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](Actuarial.gif)
 
+---
+
+### Executive Summary
+
+SuperLife Saving Lives’ product development team engaged YES SIR Consulting to propose a program that incentivises healthier behaviours and provides value to the customers and firm. The program is an application which promotes wellbeing and sun safety awareness with opportunities for hiking and outdoor activity groups. Initial best estimates of the proposed program price it Č243.937/year more competitively than current life products offered. However, risks and limitations are acknowledged and mitigation strategies have been recommended. 
+
+---
+
+### Overview
+
+SuperLife Saving Lives’ (SuperLife), a major life insurer in Lemuria, product development team investigated pairing health incentives and life insurance to achieve the goals of healthy behaviours, decrease mortality, increase sales and overall value to the firm. YES SIR Consulting has been engaged by Superlife’s Jes B. Zane and Pat Moneywize’s team to propose a program that will help achieve the goals.
+
+YES SIR Consulting will provide recommendations and supporting analysis for a proposed product, the projected financial model and outcomes, the assumptions utilised to generate the projections, risks and limitations.
 
 ---
 
