@@ -132,3 +132,37 @@ Long Term
 * Lapse Rate: Historical Lapse rates by age group, policy type and gender were used.
 * Interventions on mortality: Interventions are assumed to have an additive reduction in mortality rates, with levels of utilisation corresponding to different reductions in mortality. No utilisation leads to no reduction in mortality. A low level of utilisation corresponds to a 2.0 % reduction in mortality, while a high level of utilisation corresponds to a 13.4% reduction in the mortality rate. The central estimate is the average of the two limits, at a 7.7% reduction.
 
+---
+
+### Ethical Considerations
+
+SuperLife’s product development should follow the Life Insurance Code of Practice in Lumaria (the Code). Similar to the Australian Code, it requires life insurers to offer products and services to an accurate, transparent and high standards [Life Insurance Code of Practice, 2023].To adhere to this, the proposed program is a simple but effective solution. Since the program only introduces a new feature, the fundamental policy wordings and claims processes remain the same. Furthermore, the program involves a technological solution, hence there are ethical considerations on data and information privacy. The program will align to SuperLife’s data and risk framework to support the ethical use of data and prevent any leaks of customer information. It is also important to consider protected groups such as location and gender, YES SIR consulting has proposed pricing under different features, however SuperLife should consider Lumaria’s anti-discrimination laws and adjust pricing appropriately. 
+
+---
+
+### Data Sources
+
+The data sources that supported the analysis of the program included SuperLife’s inforce policies, Lumaria wikipedia page, and Lumarian economic and mortality data. External industry related research was also used to formulate the proposed program. 
+
+---
+
+### Limitations
+
+Data limitations
+* No data on in market wellness programs and their results, for example reduction in mortality, increase in competitiveness and changes in revenue.
+* Hard to find data on the effects of incentives on different health conditions, such as smoking, cancer and other health conditions.
+* Lumaria’s macroeconomic variables were on an annual basis, which caused the rate forecasting to have a lack of granularity. 
+* Lumaria’s mortality table was a combined version for both genders which is unrealistic as females generally have a longer life expectancy than males. 
+* In-force data set provided by Superlife had limited information on the health status of the insured and this limited the analysis on how chosen interventions would affect the mortality of each policyholder. 
+
+Therefore, the above limitations suggest uptake and utilisation of the program may be inaccurate, thus further surveys or focus groups need to be conducted within SuperLife’s inforce policyholders to obtain an improved view of the program’s success. Furthermore, the data limitations may cause deviations between forecasted  and real returns. Hence, an expected versus actual analysis needs to be performed periodically to adjust pricing. With these ongoing measures, the proposed program can be refined to a greater extent.  
+
+
+---
+
+### Conclusion
+
+The proposed program combines incentivising healthier behaviours and providing value to the customers and firm. The program introduces an application which promotes wellbeing and sun safety awareness with opportunities for hiking and outdoor activity groups. The financial analysis indicates that under normal circumstances, the proposed program will fare better than traditional products. However, there are risks and limitations which have been acknowledged and mitigation strategies were recommended.
+
+---
+
