@@ -75,24 +75,39 @@ Long Term
 
 * Significant disparities in historical mortality rates from the inforce dataset were found between smoking status and underwriting class
 
-![A graph of smoking status Description automatically generated](Images/SmokingMortality.png)![A graph of a graph with numbers and lines Description automatically generated with medium confidence](Images/UnderwritingMortality.png)
+<p align="center">
+<img src="Images/SmokingMortality.png" width="500">
+</p>
 
-* A Cox Proportional Hazard model was used to capture relativities in modelling mortality rates![A close-up of numbers Description automatically generated](Images/CoxPHOutput.png)
-* ARIMA was used to model inflation and interest rates
+<p align="center">
+<img src="Images/UnderwritingMortality.png" width="500">
+</p>
+
+* ARIMA models were used to model inflation and interest rates
+* A Cox Proportional Hazard model was used to capture relativities in modelling mortality rates
+<p align="center">
+<img src="Images/CoxPHOutput.png">
+</p>
+
 * Pricing was done according to the zero NPV principle
-
-![](Images/Equation.png)
-
+<p align="center">
+<img src="Images/Equation.png">
+</p>
 ### Pricing Results
 
 * The proposed product is priced according to policy type, age group, smoking status and underwriting class. When offered at the same price, SuperLife would expect to earn on average Č243.94 more from the proposed product than current offerings.
 * Life expectancy is expected to improve; an individual aged 30 may also see an increase in life expectancy of up to 1.5 years.
 
-![](Images/AverageAnnualPremium.png)
+<p align="center">
+<img src="Images/AverageAnnualPremium.png">
+</p>
 
 * Average incurred loss per policy on the central estimate of assumptions is expected to be Č3.65 before the addition of any profit margins.
 * Sensitivity tests were conducted on prices assuming different levels of utilisation. All tested prices failed under extreme scenarios of low investment returns. The product may still perform well under high inflation if investment returns are healthy, due to the assumption that indexation is limited to 5%p.a. However, high inflation coupled with low returns sees the product incur the greatest total losses.
--   ![](Images/ExpectedProfitsUnderDifferentPricingAssumptions.png)
+
+<p align="center">
+<img src="Images/ExpectedProfitsUnderDifferentPricingAssumptions.png">
+</p>
 
 ### Assumptions
 
