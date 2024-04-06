@@ -26,6 +26,10 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ---
 
+### Our full report can be found [here](path/to/Project_Report.pdf).
+
+---
+
 ### Executive Summary
 
 SuperLife Saving Lives’ product development team engaged YES SIR Consulting to propose a program that incentivises healthier behaviours and provides value to the customers and firm. The program is an application which promotes wellbeing and sun safety awareness with opportunities for hiking and outdoor activity groups. Initial best estimates of the proposed program price it Č243.937/year more competitively than current life products offered. However, risks and limitations are acknowledged and mitigation strategies have been recommended. 
@@ -106,6 +110,9 @@ Long Term
 <p align="center">
 <img src="Images/Equation.png">
 </p>
+
+--- 
+
 ### Pricing Results
 
 * The proposed product is priced according to policy type, age group, smoking status and underwriting class. When offered at the same price, SuperLife would expect to earn on average Č243.94 more from the proposed product than current offerings.
@@ -121,6 +128,8 @@ Long Term
 <p align="center">
 <img src="Images/ExpectedProfitsUnderDifferentPricingAssumptions.png">
 </p>
+
+--- 
 
 ### Assumptions
 
