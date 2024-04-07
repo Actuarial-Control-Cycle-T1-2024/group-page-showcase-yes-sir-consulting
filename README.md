@@ -126,7 +126,20 @@ Long Term
 
 ### Risks and Mitigation Strategies
 
-Risks associated with the program were evaluated based on their likelihood and severity, and mitigation strategies were proposed, these are listed in the following table. Note that severity classes in increasing order are (negligible, minor, major) and likelihood classes in increasing order of likelihood are (infrequent, occasional, frequent).
+Risks associated with the program were evaluated based on their likelihood and severity, and mitigation strategies were proposed. These are listed in the following table, for more detailed explanation of risks and mitigations please refer to the report. Note that severity classes in increasing order are (negligible, minor, major) and likelihood classes in increasing order of likelihood are (infrequent, occasional, frequent).
+
+| Risk | Likelihood | Severity | Mitigation |
+| :---: | :---: | :---: | :--- |
+| Pricing Risk | Occasional | Major | Dividing into age categories where similar samples of each age group can be bootstrapped. |
+| Regulatory & Compliance Risk | Infrequent | Major | Audits of SuperLife's financial position and statements, periodic risk assessments. |
+| Reputational Risk | Infrequent | Major | Sound risk assessment framework, PR team, reputation insurance. |
+| Strategy Risk | Frequent | Major | Catering to young demographics, does not require smartwatches. |
+| Longevity Risk | Occasional | Major | Use the most up-to-date mortality tables, using mortality-linked securities, longevity bonds, mortality swaps to hedge risk. |
+| Inflation Risk | Frequent | Minor | Incorporation of indexation feature on sum insured to keep up with inflation, educating customers on how inflation impacts their coverage. |
+| Operational Risk | Occasional | Minor | Continuous monitoring of app perfomance and user feedback, automate processes and streamline operations. |
+| Underwriting Risk | Frequent | Minor | Hold larger reserves, clarify to clients the consequences of misrepresentation, train underwriters to be risk alert. |
+| Cyber Risk | Occasional | Major | Partner with established software development companies, leverage proven system architecture with robust security. |
+| Market and Liquidity Risk | Infrequent | Major | Preventative asset allocation, correct asset-liability management. |
 
 ---
 
