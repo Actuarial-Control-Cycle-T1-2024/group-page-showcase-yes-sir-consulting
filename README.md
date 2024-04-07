@@ -123,6 +123,12 @@ Long Term
 
 ---
 
+### Risks and Mitigation Strategies
+
+Risks associated with the program were evaluated based on their likelihood and severity, and mitigation strategies were proposed, these are listed in the following table. Note that severity classes in increasing order are (negligible, minor, major) and likelihood classes in increasing order of likelihood are (infrequent, occasional, frequent).
+
+---
+
 ### Ethical Considerations
 
 SuperLife’s product development should follow the Life Insurance Code of Practice in Lumaria (the Code). Similar to the Australian Code, it requires life insurers to offer products and services to an accurate, transparent and high standards [Life Insurance Code of Practice, 2023].To adhere to this, the proposed program is a simple but effective solution. Since the program only introduces a new feature, the fundamental policy wordings and claims processes remain the same. Furthermore, the program involves a technological solution, hence there are ethical considerations on data and information privacy. The program will align to SuperLife’s data and risk framework to support the ethical use of data and prevent any leaks of customer information. It is also important to consider protected groups such as location and gender, YES SIR consulting has proposed pricing under different features, however SuperLife should consider Lumaria’s anti-discrimination laws and adjust pricing appropriately. 
