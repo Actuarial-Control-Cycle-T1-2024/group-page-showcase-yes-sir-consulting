@@ -150,7 +150,7 @@ To better evaluate the effects the incentives would have on SuperLife’s mortal
 
 ### Risks and Mitigation Strategies
 
-Risks associated with the program were evaluated based on their likelihood and severity, and mitigation strategies were proposed. These are listed in the following table, for more detailed explanation of risks and mitigations please refer to the report. Note that severity classes in increasing order are (negligible, minor, major) and likelihood classes in increasing order of likelihood are (infrequent, occasional, frequent). The table below is a summary of the risk and mitigation, for more information on risks, refer to the full report at the start of the landing page.
+Risks associated with the program were evaluated based on their likelihood and severity, and mitigation strategies were proposed. These are listed in the following table, for more detailed explanation of risks and mitigations please refer to the report. Note that severity classes in increasing order are (negligible, minor, major) and likelihood classes in increasing order of likelihood are (infrequent, occasional, frequent). The table below is a summary of the risks and mitigation strategies. For more information refer to the full report at the start of the landing page.
 
 | Risk | Likelihood | Severity | Mitigation |
 | :---: | :---: | :---: | :--- |
