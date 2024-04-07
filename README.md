@@ -26,7 +26,7 @@ More information on GitHub Pages can be found [here](https://pages.github.com/)
 
 ---
 
-### Our full report can be found [here](path/to/Project_Report.pdf).
+### Our full report can be found [here](path/to/YES SIR consulting unsw submission.pdf).
 
 ---
 
