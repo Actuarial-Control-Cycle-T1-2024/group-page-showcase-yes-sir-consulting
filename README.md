@@ -165,6 +165,7 @@ Risks associated with the program were evaluated based on their likelihood and s
 | Cyber Risk | Occasional | Major | Partner with established software development companies, leverage proven system architecture with robust security. |
 | Market and Liquidity Risk | Infrequent | Major | Preventative asset allocation, correct asset-liability management. |
 
+For more information on risks, refer to the full report at the start of the landing page.
 ---
 
 ### Ethical Considerations
