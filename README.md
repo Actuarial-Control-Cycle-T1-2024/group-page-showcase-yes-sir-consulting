@@ -6,7 +6,7 @@ New Maybach, but I ain't got a chauffeur" - Chief Keef_
 
 ---
 
-### Our full report can be found [here](path/to/YES%20SIR%20consulting%20unsw%20submission.pdf).
+### Our full report can be found [here](path/to/YES-SIR-consulting-unsw-submission.pdf).
 
 ---
 
