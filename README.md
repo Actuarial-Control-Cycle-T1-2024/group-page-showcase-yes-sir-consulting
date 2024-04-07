@@ -112,6 +112,20 @@ Long Term
 
 --- 
 
+### Historical Implementation Savings
+To better evaluate the effects the incentives would have on SuperLife’s mortality savings, projections of expected deaths, claims outgo and expense outgo where conducted on in-force policies over the past 20 years.
+
+<p align="center">
+<img src="Images/HistoricalOutgoReduction.png">
+</p>
+
+* Two assumptions on incentive utilisation levels were tested, with high utilisation assumption resulting in a 11.42% reduction in expected deaths, 10.53% reduction in expected outgo and low utilisation assumption resulting in 1.69% reduction in expected deaths, 1.55% reduction in expected outgo.
+* Younger clients experienced the highest reduction in overall mortality and claims over the time of coverage, while older age groups experienced higher reductions in total expenses.
+* The 45-49 age group experienced the greatest percentage reduction in total outgo. With this tapering off as we move towards the older and younger age groups.
+
+
+---
+
 ### Assumptions
 
 * Rates of investment return and inflation: Modelled from historical one- and ten-year spot rates and historical inflation rates using ARIMA modelling, with 95% CI intervals capped at the min and max historical values to model high and low-rate scenarios
