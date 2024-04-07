@@ -6,26 +6,6 @@ New Maybach, but I ain't got a chauffeur" - Chief Keef_
 
 ---
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
-
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
-
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
-
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
-
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
----
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
-
----
-
 ### Our full report can be found [here](path/to/YES%20SIR%20consulting%20unsw%20submission.pdf).
 
 ---
